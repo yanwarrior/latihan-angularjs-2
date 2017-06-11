@@ -1,4 +1,4 @@
-## Latihan Ngaular Part 2
+## Latihan Angular Part 2
 This repo contains angularjs exercises about creating an angello-lite app that I learned in the book `Angular JS In Action`, Manning Publishing, author by `Lukas Ruebbelke` with `Brian Ford` and I am very grateful for what they teach in this book.
 
 ## Installing This App
